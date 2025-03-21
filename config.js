@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923376218605';
+const defaultOwner = '923436039606';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -25,7 +25,7 @@ global.SESSION_ID = process.env.SESSION_ID || 'iFRmgbjT#1pNiB-o2JVuFMtt2mbj2HkIV
 
 global.mods = []
 global.prems = []
-global.allowed = ['923376218605', '923376218605']
+global.allowed = ['923436039606', '923436039606']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
